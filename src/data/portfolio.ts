@@ -58,6 +58,20 @@ export const portfolio: PortfolioData = {
       href: 'https://chapa-quente-six.vercel.app/',
     },
     {
+      title: 'Ink Tattoo',
+      category: 'brand',
+      year: '2026',
+      summary:
+        'Site de um estúdio de tatuagem com galeria de trabalhos, flashes disponíveis e orçamento pelo WhatsApp.',
+      body: [
+        'Conceito de site para um tatuador de fineline e blackwork em Pinheiros, São Paulo. Mostra a galeria de trabalhos, os flashes autorais para reservar e um formulário que monta o pedido de orçamento com ideia, região do corpo e tamanho, enviado direto pelo WhatsApp.',
+      ],
+      role: 'Desenvolvimento front-end',
+      tools: ['React', 'TypeScript', 'Tailwind CSS', 'Vercel'],
+      mark: 'INK',
+      href: 'https://ink-tattoo-one.vercel.app/',
+    },
+    {
       title: 'ClipDown',
       category: 'motion',
       year: '2026',
