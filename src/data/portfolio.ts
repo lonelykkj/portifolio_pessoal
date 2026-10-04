@@ -72,6 +72,20 @@ export const portfolio: PortfolioData = {
       href: 'https://ink-tattoo-one.vercel.app/',
     },
     {
+      title: 'Valmont Advogados',
+      category: 'brand',
+      year: '2026',
+      summary:
+        'Site institucional de um escritório de advocacia empresarial, com áreas de atuação, sócios e insights jurídicos.',
+      body: [
+        'Conceito de site para um escritório boutique de direito empresarial em São Paulo. Apresenta o manifesto, as áreas de atuação em abas interativas (societário, tributário, contencioso, compliance e mais), os sócios, artigos jurídicos e um formulário para solicitar reunião.',
+      ],
+      role: 'Desenvolvimento front-end',
+      tools: ['React', 'TypeScript', 'Tailwind CSS', 'Vercel'],
+      mark: 'JURIS',
+      href: 'https://valmont-advocacia.vercel.app/',
+    },
+    {
       title: 'ClipDown',
       category: 'motion',
       year: '2026',
