@@ -44,6 +44,20 @@ export const portfolio: PortfolioData = {
       href: 'https://falae-page.vercel.app/',
     },
     {
+      title: 'Chapa Quente',
+      category: 'brand',
+      year: '2026',
+      summary:
+        'Site de uma hamburgueria com cardápio interativo e pedidos enviados direto pelo WhatsApp.',
+      body: [
+        'Conceito de site para um burger bar em São Paulo. O hambúrguer é montado camada por camada conforme a página rola, e o cliente monta a sacola no cardápio e envia o pedido pronto pelo WhatsApp, com entrega ou retirada e forma de pagamento.',
+      ],
+      role: 'Desenvolvimento front-end',
+      tools: ['React', 'TypeScript', 'Tailwind CSS', 'Vercel'],
+      mark: 'CHAPA',
+      href: 'https://chapa-quente-six.vercel.app/',
+    },
+    {
       title: 'ClipDown',
       category: 'motion',
       year: '2026',
